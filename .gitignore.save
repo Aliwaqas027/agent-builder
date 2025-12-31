@@ -1,3 +1,8 @@
+
+
+.env
+*.env
+.env.local
 # Python
 __pycache__/
 *.py[cod]
@@ -50,5 +55,3 @@ logs/
 .pytest_cache/
 .coverage
 htmlcov/
-final_config.py
-final_config.py.save
